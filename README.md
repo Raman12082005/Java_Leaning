@@ -1,2 +1,2 @@
 # Java_Leaning
-Learning java script
+All codes of Java Script are shown here
