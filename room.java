@@ -48,6 +48,7 @@ public class room {
         System.out.println("Select room for AC/ non AC");
         System.out.println("1. AC");
         System.out.println("2. Non AC");
+        System.out.print("Enter your choice : ");
         choice2 = sc.nextInt();
 
         switch(choice2){
